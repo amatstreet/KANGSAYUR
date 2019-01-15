@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<!-- INI BAGIAN HEADNYA PAK -->
+	<head>
+		<title>HelloWorld || Belajar HTML</title>
+		<meta charset="UTF-8">
+	</head>
+
+	<!-- INI BAGIAN BODYNYA PAK -->
+	<body>
+		<div>
+			<a href="index.html">Liff</a>
+			<a href="index.php">Liff2</a>
+		</div>
+
+		<div>
+			<table border="1">
+				<tr>
+					<td>NAMA</td>
+					<td>UMUR</td>
+				</tr>
+				<tr>
+					<td>Cholid Maulana</td>
+					<td>23</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+		
+</html>
